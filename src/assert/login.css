@@ -1,0 +1,23 @@
+.nope{
+    height: 100%;
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1494515843206-f3117d3f51b7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJ1c3xlbnwwfHwwfHx8MA%3D%3D");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 750px;
+}
+.nontats
+{
+    background-image: url("https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2020/08/Andaman-Nicobar-Islands-feature-image.jpg?tr=w-1366,f-jpg,pr-true");
+    height: 465px;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.reality{
+    width:600px;
+    top:200px;
+    right:500px;
+    position: absolute;
+    
+}

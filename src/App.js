@@ -1,21 +1,14 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
-import NestednpmComponent from './functionalComponent.js/NestedComponent';
-import List from './propslist';
+import RoutingCancel from './component/Routingcancel';
 
 function App() {
   return (
     <div className="App">
-       <NestednpmComponent/>
-       <List />v;
+     
+      <RoutingCancel/>
     </div>
   );
 }
 
 export default App;
-
-
-
-
-
-
